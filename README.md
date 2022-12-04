@@ -1,4 +1,4 @@
-## Hey, It's me, AliRoswell <img src=https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif width="30">
+## Hey, It's me, AliRoswell <img src=https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Earth.gif width="30">
 
 <br>
   <div  align="center"> 
