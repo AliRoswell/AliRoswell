@@ -2,8 +2,6 @@
 
 <br>
   <div  align="center"> 
-  <a href="https://www.instagram.com/aliroswell/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-    <a href="https://t.me/RoswellArsiv" target="_blank"><img src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"</a>
 <br>
 <br>
 <!--<img src="https://komarev.com/ghpvc/?username=AliRoswell&label=Profile Visitors&color=001eff&style=flat" alt="AliRoswell" />-->
